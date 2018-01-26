@@ -288,3 +288,11 @@ The questions are organized by the date when I have received them via email. Ple
 - "Alexa, help me relax."
 - "Alexa, play Too good at Goodbyes."
 	- Available to Amazon Music Unlimited subscribers.
+
+
+
+---
+
+## Other useful resources
+
+- [Easter Eggs](https://github.com/miguelmota/awesome-amazon-echo/blob/master/EASTER_EGGS.md)
