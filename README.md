@@ -5,6 +5,29 @@ This list has been created using the questions reported in the Amazon emails "Wh
 
 The questions are organized by the date when I have received them via email. Please, feel free to contribute to this list.
 
+### 26/01/2018
+
+- “Alexa, good morning”
+- "Alexa, open Beautiful Dream."
+	- Get help relaxing, sleeping or staying focused.
+- "Alexa, when are the Grammys?"
+- "Alexa, play True or False."
+- "Alexa, play TED Radio Hour podcast."
+	- Discover available podcasts in the TuneIn section of your Alexa App; you’ll find it under ‘Music, Video and Books’.
+- "Alexa, let’s workout."
+- "Alexa, where's the nearest gym?"
+- "Alexa, Simon says ‘stop copying me’."
+- "Alexa, play the album The Time is Now by Craig David."
+- "Alexa, how many astronauts have been to the moon?"
+- "Alexa, tell me a fun fact about science."
+- "Alexa, can you make calls?"
+	- Call or message hands-free to anyone who also has an Echo device or the Alexa App on compatible smartphones.
+- "Alexa, who is your favourite superhero?"
+- "Alexa, what are the top five most populated countries?"
+- "Alexa, I want to learn something."
+- "Alexa, pick a card."
+- "Alexa, what is the value of Pi?"
+
 
 ### 19/01/2018
 
