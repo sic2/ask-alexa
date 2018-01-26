@@ -3,7 +3,7 @@
 Ask-Alexa is a list of questions and tasks you can ask Alexa. 
 This list has been created using the questions reported in the Amazon emails "What's new with Alexa?"
 
-The questions organized by the date when I have received them. Please, feel free to contribute to this list.
+The questions are organized by the date when I have received them via email. Please, feel free to contribute to this list.
 
 
 ### 19/01/2018
