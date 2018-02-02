@@ -5,6 +5,28 @@ This list has been created using the questions reported in the Amazon emails "Wh
 
 The questions are organized by the date when I have received them via email. Please, feel free to contribute to this list.
 
+### 02/02/2018
+
+- “Alexa, give me a compliment”
+- "Alexa, tell me a Game of Thrones quote."
+- "Alexa, do you like cats or dogs?"
+- "Alexa, play the new album by Justin Timberlake on Amazon Music."
+- "Alexa, ask the TARDIS to take off."
+- "Alexa, what is the book Artemis about?"
+- "Alexa, how fast does Andy Murray serve?"
+- "Alexa, open Fake Laugh."
+- "Alexa, what’s the traffic like right now?"
+	- To set up your daily commute go to ‘Settings’ then ‘Traffic’ in the Alexa App and add your starting point and destination.
+- "Alexa, when do England play in the Six Nations?"
+- "Alexa, play Popcorn Quiz."
+- "Alexa, what's on my to-do list?"
+- "Alexa, which countries border Switzerland?"
+- "Alexa, what's your favourite hobby?"
+- "Alexa, where are the Winter Olympics being held?"
+- "Alexa, who is Darth Vader?"
+- "Alexa, open Strange Halls."
+	- A game of memory; can you find your way out?
+
 ### 26/01/2018
 
 - “Alexa, good morning”
