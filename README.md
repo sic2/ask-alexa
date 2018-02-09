@@ -5,6 +5,28 @@ This list has been created using the questions reported in the Amazon emails "Wh
 
 The questions are organized by the date when I have received them via email. Please, feel free to contribute to this list.
 
+### 09/02/2018
+
+- “Alexa, tell me a love story”
+- "Alexa, tell me a knock knock joke."
+- "Alexa, open Japanese Garden Sounds."
+- "Alexa, give me a 'roses are red' poem."
+- "Alexa, where is the nearest florist?"
+- "Alexa, what's the weather this weekend?"
+- "Alexa, play 50 Great Love Songs."
+	- Amazon Music Unlimited subscribers can just ask, "Alexa, play 100 Greatest Love Songs".
+- "Alexa, start Animal Game."
+- "Alexa, sing me a love song."
+- "Alexa, pretend to be a supervillain."
+- "Alexa, when was The Lord of the Rings published?"
+- "Alexa, play the song that goes 'this ain't love, it’s clear to see'."
+- "Alexa, play Magic Radio."
+- "Alexa, tell me about Cupid."
+- "Alexa, what films are playing?"
+- "Alexa, how old is Prince Harry?"
+- "Alexa, how do I play music in multiple rooms?"
+
+
 ### 02/02/2018
 
 - “Alexa, give me a compliment”
