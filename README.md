@@ -5,6 +5,29 @@ This list has been created using the questions reported in the Amazon emails "Wh
 
 The questions are organized by the date when I have received them via email. Please, feel free to contribute to this list.
 
+### 16/02/2018
+
+- "Alexa, tell me a joke about you”
+- "Alexa, when is the women's figure skating?"
+	- Just ask for schedule information for any event in the 2018 Olympic Winter Games.
+- "Alexa, what's another word for 'happy'?"
+- "Alexa, help me relax."
+- "Alexa, what are your popular skills?"
+- "Alexa, wake me up in the morning."
+- "Alexa, give me a recipe for chicken."
+- "Alexa, it's my birthday."
+- "Alexa, start Earplay."
+	- Take part in this interactive audio story where you’re the hero.
+- "Alexa, I have a cunning plan."
+- "Alexa, how do I calculate the area of a circle?"
+- "Alexa, tell me a fun fact about dinosaurs."
+- "Alexa, call Mum."
+	- Call or message anyone hands-free who also has an Echo device or the Alexa App on supported smartphones – at no additional cost.
+- "Alexa, how many days until summer?"
+- "Alexa, who is hosting the BAFTAs?"
+- "Alexa, play music for reading."
+- "Alexa, how long is the movie Black Panther?"
+
 ### 09/02/2018
 
 - “Alexa, tell me a love story”
