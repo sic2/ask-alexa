@@ -5,6 +5,29 @@ This list has been created using the questions reported in the Amazon emails "Wh
 
 The questions are organized by the date when I have received them via email. Please, feel free to contribute to this list.
 
+### 23/02/2018
+
+- "Alexa, give me a tip"
+- "Alexa, how is Great Britain doing in the Olympics?"
+- "Alexa, what are my skills?"
+- "Alexa, play Bird Sounds."
+- "Alexa, when is the first day of spring?"
+- "Alexa, how do you make the colour purple?"
+- "Alexa, what is your favourite band?"
+- "Alexa, drop in on home."
+	- With Drop In, you can use two or more Echo devices to chat between rooms.
+- "Alexa, play music to help me focus."
+- "Alexa, tell me a superhero joke."
+- "Alexa, what films has Anthony Hopkins acted in?"
+- "Alexa, can you speak Pig Latin?"
+- "Alexa, how many stars are in the galaxy?"
+- "Alexa, open Would You Rather?"
+- "Alexa, do not disturb."
+	- To disable the "do not disturb" mode, simply say "Alexa, turn off 'do not disturb'."
+- "Alexa, open Daily Affirmation."
+- "Alexa, which came first: the chicken or the egg?"
+
+
 ### 16/02/2018
 
 - "Alexa, tell me a joke about you”
@@ -27,6 +50,7 @@ The questions are organized by the date when I have received them via email. Ple
 - "Alexa, who is hosting the BAFTAs?"
 - "Alexa, play music for reading."
 - "Alexa, how long is the movie Black Panther?"
+
 
 ### 09/02/2018
 
