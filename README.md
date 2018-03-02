@@ -5,6 +5,28 @@ This list has been created using the questions reported in the Amazon emails "Wh
 
 The questions are organized by the date when I have received them via email. Please, feel free to contribute to this list.
 
+### 02/03/2018
+
+ - "Alexa, give me a poem."
+- "Alexa, I'm bored."
+- "Alexa, give me an Oscars quiz."
+- "Alexa, play the Oscar-Winning Film Scores playlist."
+- "Alexa, how much wood would a woodchuck chuck?"
+- "Alexa, set a reminder."
+- "Alexa, when did the last Taylor Swift album come out?"
+- "Alexa, watch The Tick on Fire TV."
+	- Learn how to control your Amazon Fire TV with your Echo Device.
+- "Alexa, Red Alert."
+- "Alexa, what is the word of the day?"
+- "Alexa, who are your role models?"
+- "Alexa, add cheese to my shopping list."
+- "Alexa, what is on TV tonight?"
+- "Alexa, who is going to win an Oscar?"
+- "Alexa, when is the next solar eclipse?"
+- "Alexa, when is Mother's Day?"
+- "Alexa, tell me a robot joke."
+
+
 ### 23/02/2018
 
 - "Alexa, give me a tip"
