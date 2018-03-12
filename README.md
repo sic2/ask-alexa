@@ -5,6 +5,31 @@ This list has been created using the questions reported in the Amazon emails "Wh
 
 The questions are organized by the date when I have received them via email. Please, feel free to contribute to this list.
 
+
+### 10/03/2018
+
+- "Alexa, give me a film quote"
+- "Alexa, let's play a game."
+- "Alexa, play something I haven’t heard in a while."
+	-  You can now ask Alexa to help you rediscover those forgotten Amazon Music songs.
+- "Alexa, open Animal Letters."
+	- Take turns with Alexa guessing the names of animals beginning with a letter of the alphabet.
+- "Alexa, what's Manchester City’s goal difference?"
+- "Alexa, flip a coin."
+- "Alexa, connect to Bluetooth."
+	- Pair your smartphone or tablet with your Echo device and stream popular audio services.
+- "Alexa, tell me a Mother's Day joke."
+- "Alexa, surely you can't be serious?"
+- "Alexa, give me a fun fact about space."
+- "Alexa, what's the population of Antarctica?"
+- "Alexa, play 'This Is Me' from The Greatest Showman."
+	- Amazon Music Unlimited subscribers can listen to the entire album, just ask "Alexa, play The Greatest Showman soundtrack."
+- "Alexa, what's your favourite flower?"
+- "Alexa, roll two dice."
+- "Alexa, let's meditate."
+- "Alexa, how many days until the FIFA World Cup?"
+
+
 ### 02/03/2018
 
  - "Alexa, give me a poem."
