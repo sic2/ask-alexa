@@ -5,6 +5,28 @@ This list has been created using the questions reported in the Amazon emails "Wh
 
 The questions are organized by the date when I have received them via email. Please, feel free to contribute to this list.
 
+## 16/03/2018
+
+- "Alexa, tell me a St. Patrick's Day limerick."
+- "Alexa, read about Quidditch."
+- "Alexa, where’s the Space Station?"
+- "Alexa, are you wearing green today?"
+- "Alexa, wake me up every day to happy 80s rock music."
+	- You can now ask Alexa to wake you up to your choice of stations, playlists, albums, genres or artists.
+- "Alexa, who’s your favourite singer?"
+- "Alexa, tell me a Star Trek joke."
+- "Alexa, open Yes Sire."
+	- Make good choices and stay in power (alive) for as long as you can.
+- "Alexa, what’s 13 degrees Celsius in Fahrenheit?"
+- "Alexa, what’s the Pound to Dollar exchange rate?"
+- "Alexa, play the 50 Great Irish Artists playlist."
+- "Alexa, send a message."
+- "Alexa, teach me something."
+- "Alexa, what’s the price of Bitcoin?"
+- "Alexa, who directed The Shape of Water?"
+- "Alexa, watch The Big Sick on Fire TV."
+- "Alexa, you had me at 'hello'."
+
 
 ### 10/03/2018
 
