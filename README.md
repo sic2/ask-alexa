@@ -5,6 +5,30 @@ This list has been created using the questions reported in the Amazon emails "Wh
 
 The questions are organized by the date when I have received them via email. Please, feel free to contribute to this list.
 
+
+## 23/03/2018
+
+- "Alexa, can you talk like Yoda?"
+- "Alexa, are there any delays on the Tube?"
+- "Alexa, who won The Boat Race last year?"
+- "Alexa, play Rainforest Sounds."
+- "Alexa, E.T. phone home."
+- "Alexa, who can I call?"
+- "Alexa, what are smart home Routines?"
+- "Alexa, whose birthday is today?"
+- "Alexa, open Yak Yak Quiz."
+- "Alexa, how many miles is 10 kilometres?"
+- "Alexa, what is the IMDb rating of Peter Rabbit?"
+- "Alexa, remind me to put the clocks forward."
+- "Alexa, play the Vintage Pop Spring Clean playlist from Amazon Music."
+- "Alexa, launch Ghost Detector."
+	- With Alexa’s help, find and capture any ghosts haunting your house.
+- "Alexa, what shape has 12 sides?"
+- "Alexa, where's my stuff?"
+	- Get an update on when your next package from Amazon is due to arrive – even if you didn’t order with Alexa.
+- "Alexa, tell me a riddle."
+
+
 ## 16/03/2018
 
 - "Alexa, tell me a St. Patrick's Day limerick."
