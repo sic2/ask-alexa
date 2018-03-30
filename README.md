@@ -6,6 +6,28 @@ This list has been created using the questions reported in the Amazon emails "Wh
 The questions are organized by the date when I have received them via email. Please, feel free to contribute to this list.
 
 
+## 30/03/2018
+
+- "Alexa, make me an April Fool."
+- "Alexa, what music skills do you have?"
+- "Alexa, who is your favourite poet?"
+- "Alexa, add this song to a new playlist."
+	- With Amazon Music, you can now ask Alexa to add songs you’re playing to a new playlist or one you’ve already created.
+- "Alexa, what are the latest film releases?"
+- "Alexa, play Sleep Better by Tom Middleton."
+- "Alexa, test how smart I am."
+- "Alexa, where is the closest pharmacy?"
+- "Alexa, when are the Commonwealth Games?"
+- "Alexa, play Dungeon Adventures."
+- "Alexa, how do I set up calling and messaging?"
+- "Alexa, give me an Easter egg."
+- "Alexa, here’s looking at you, kid."
+- "Alexa, what is a black hole?"
+- "Alexa, when is the Anthony Joshua fight?"
+- "Alexa, tell me a football joke."
+- "Alexa, how do I play music in all my rooms?"
+
+
 ## 23/03/2018
 
 - "Alexa, can you talk like Yoda?"
