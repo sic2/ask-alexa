@@ -5,6 +5,29 @@ This list has been created using the questions reported in the Amazon emails "Wh
 
 The questions are organized by the date when I have received them via email. Please, feel free to contribute to this list.
 
+## 06/04/2018
+
+- "Alexa, give me a blooper."
+- "Alexa, what's up?"
+- "Alexa, what’s your favourite Commonwealth Games event?"
+- "Alexa, play the top songs in Manchester."
+	- Amazon Music subscribers can now discover songs that are currently popular in cities and countries all over the world.
+- "Alexa, what's the traffic like on the motorway?"
+- "Alexa, why is Pluto not a planet?"
+- "Alexa, what are smart home Groups?"
+- "Alexa, why is water wet?"
+- "Alexa, who is leading the Masters?"
+- "Alexa, play the album Revamp from Amazon Music."
+	- Celebrate Elton John's music with Coldplay, Lady Gaga, The Killers and more, as they reimagine some of his biggest hits.
+- "Alexa, how much is Simon Cowell worth?"
+- "Alexa, translate 'good morning' into Japanese."
+- "Alexa, give me a penguin joke."
+- "Alexa, add an event to my calendar."
+	- Connect your Google, Apple or Microsoft calendar and ask Alexa to add new events or check your upcoming appointments.
+- "Alexa, open Eighties Feel the Pressure."
+- "Alexa, inspire me."
+- "Alexa, create a to-do list."
+
 
 ## 30/03/2018
 
