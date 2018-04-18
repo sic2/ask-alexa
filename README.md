@@ -5,6 +5,31 @@ This list has been created using the questions reported in the Amazon emails "Wh
 
 The questions are organized by the date when I have received them via email. Please, feel free to contribute to this list.
 
+## 13/04/2018
+
+- "Alexa, what can I say?"
+- "Alexa, how is traffic to the airport?"
+	- To hear traffic information, go to "Settings" in your Alexa App and add your address (including postcode) under "Device location".
+- "Alexa, when is the next bank holiday?"
+- "Alexa, what are the laws of robotics?"
+- "Alexa, Wikipedia 'artificial intelligence'."
+- "Alexa, who won the Grand National last year?"
+	- Missed a race? Just ask "Alexa, what are the horse racing results?".
+- "Alexa, tell me a fun fact."
+- "Alexa, set a reminder."
+- "Alexa, play Forest Night sounds."
+- "Alexa, play the album Golden by Kylie Minogue."
+	- Reminiscing about the good old classics? Just ask, "Alexa, play Kylie Minogue from the 90s".
+- "Alexa, play Guess My Name."
+- "Alexa, what are the best films of 2018?"
+- "Alexa, roll out the red carpet."
+- "Alexa, read about Quidditch."
+- "Alexa, set a sleep timer for 20 minutes."
+	- Ask Alexa to set a sleep timer so that your audiobook or music will automatically shut off after a given time.
+- "Alexa, tell me a politics joke."
+- "Alexa, what’s your favourite word?"
+
+
 ## 06/04/2018
 
 - "Alexa, give me a blooper."
