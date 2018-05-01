@@ -5,6 +5,59 @@ This list has been created using the questions reported in the Amazon emails "Wh
 
 The questions are organized by the date when I have received them via email. Please, feel free to contribute to this list.
 
+
+## 27/04/2018
+
+- "Alexa, what's your favourite film?"
+- "Alexa, announce that dinner's ready."
+- "Alexa, can you do an impression?"
+- "Alexa, play pop music to make me happy."
+- "Alexa, when's Prince Harry getting married?"
+- "Alexa, what's black and white and red all over?"
+- "Alexa, open Animal Sounds."
+- "Alexa, what's on TV tonight?"
+- "Alexa, give me a chocolate brownie recipe."
+	- Let Alexa help you in the kitchen. Just ask, "Alexa, give me a …. recipe."
+- "Alexa, play music for cooking."
+- "Alexa, how old are you?"
+- "Alexa, give me a quote."
+- "Alexa, play trivia games."
+- "Alexa, where's the next Grand Prix?"
+- "Alexa, what was Ed Sheeran's first single?"
+- "Alexa, how far away is Paris?"
+	- To set your device location, go to ‘Settings’ in your Alexa App and add your address (including postcode) under ‘Device location’.
+- "Alexa, what action films are playing near me?"
+- "Alexa, what does the fox say?"
+- "Alexa, how tall is the Eiffel Tower?"
+- "Alexa, good morning gorgeous."
+
+
+## 20/04/2018
+
+- "Alexa, what’s on your mind?"
+- "Alexa, read Treasure Island."
+	- Listen to this timeless tale of pirates, lost treasure maps and mutiny, starring Catherine Tate and Phillip Glenister. Free to stream with Alexa until 6th May.
+- "Alexa, play Song Quiz."
+- "Alexa, what happened today in history?"
+- "Alexa, show me the money."
+- "Alexa, tell me a pun."
+- "Alexa, play the latest album by Manic Street Preachers."
+- "Alexa, turn it up."
+- "Alexa, who’s the highest paid actor?"
+- "Alexa, what can I do for Earth Day?"
+- "Alexa, how many days until summer?"
+- "Alexa, make the living room gold."
+	- Control the colour and shades of white of your compatible smart lights.
+- "Alexa, what’s the capital of Finland?"
+- "Alexa, open Babbling Brook."
+- "Alexa, who invented the light bulb?"
+- "Alexa, you have mad skills."
+- "Alexa, open Categories Game."
+	- Name a word that matches both the category and letter Alexa provides.
+- "Alexa, what’s your favourite colour?"
+- "Alexa, play 'Paradise' by George Ezra."
+- "Alexa, who is Batman?"
+
 ## 13/04/2018
 
 - "Alexa, what can I say?"
@@ -28,6 +81,9 @@ The questions are organized by the date when I have received them via email. Ple
 	- Ask Alexa to set a sleep timer so that your audiobook or music will automatically shut off after a given time.
 - "Alexa, tell me a politics joke."
 - "Alexa, what’s your favourite word?"
+- "Alexa, play Deal or No Deal."
+- "Alexa, how old is the universe?"
+- "Alexa, what's the population of the United Kingdom?"
 
 
 ## 06/04/2018
