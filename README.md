@@ -5,6 +5,31 @@ This list has been created using the questions reported in the Amazon emails "Wh
 
 The questions are organized by the date when I have received them via email. Please, feel free to contribute to this list.
 
+## 04/05/2018
+
+- "Alexa, tell me a Star Wars joke."
+- "Alexa, what are your kids skills?"
+- "Alexa, when is Eurovision?"
+- "Alexa, hasta la vista, baby."
+- "Alexa, tell me a fun fact about sleep."
+- "Alexa, how do I receive calls?"
+- "Alexa, open The Fake News Game."
+- "Alexa, play The Best of Star Wars playlist."
+- "Alexa, can you do maths?"
+- "Alexa, tell me about Alexa Announcements."
+	-  A simple and easy way to send messages between your Echo devices.
+- "Alexa, what's the tallest animal?"
+- "Alexa, what are your Star Wars skills?"
+- "Alexa, what's number one in the charts?"
+- "Alexa, dim the dining room light to 50%."
+- "Alexa, what’s the temperature today?"
+- "Alexa, how do I play music everywhere?"
+- "Alexa, play rock, paper, scissors."
+- "Alexa, read my Kindle book."
+- "Alexa, order dog food."
+- "Alexa, open Escape Rooms."
+- "Alexa, define optimism."
+
 
 ## 27/04/2018
 
